@@ -33,7 +33,7 @@ Health Bot, Static Web Apps,
 Web Technologies:
 Html,
 Css,
-
+Java Script
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -58,5 +58,5 @@ Contact us page:
 
 Hygiene azure health bot:
 
-Java Script![hygienebot](https://user-images.githubusercontent.com/118534118/206669565-a4c91e21-c95e-4d58-b161-239676293079.png)
+![hygienebot](https://user-images.githubusercontent.com/118534118/206669565-a4c91e21-c95e-4d58-b161-239676293079.png)
 
