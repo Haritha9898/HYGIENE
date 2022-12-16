@@ -56,7 +56,20 @@ Contact us page:
 
 ![contactush](https://user-images.githubusercontent.com/118534118/206669580-7c66c78f-d6a6-4e5e-bd2e-ea5890f5f6f0.png)
 
-Hygiene azure health bot:
+Hygiene azure health bot functionality1:
 
 ![hygienebot](https://user-images.githubusercontent.com/118534118/206669565-a4c91e21-c95e-4d58-b161-239676293079.png)
+
+Hygiene azure health bot functionality2:
+
+![azure bot functionality2](https://user-images.githubusercontent.com/118534118/208054050-5b5bfbc8-46d1-47de-94d9-d74c05ce72f9.jpg)
+
+Hygiene azure health bot functionality3:
+
+![azure bot functionality3](https://user-images.githubusercontent.com/118534118/208054037-c9b876bb-144e-4dc3-bcf9-d59ebd8d57bb.jpg)
+
+Hygiene azure health bot functionality4:
+
+![azure bot functionality4](https://user-images.githubusercontent.com/118534118/208054045-0f17c87a-0a43-40ef-b0bc-f64d56cfee7b.jpg)
+
 
