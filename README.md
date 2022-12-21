@@ -11,7 +11,6 @@ Github Project Link:https://haritha9898.github.io/HYGIENE/
 
 Azure Project Link:https://yellow-field-0c01d4b10.2.azurestaticapps.net/
 
-Azure health bot link:https://eastus.healthbot.microsoft.com/account/hygienetipsbot-oztfeu8
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
