@@ -1,9 +1,9 @@
 
-Hii..Everyone..This is N.Haritha,MPCS Final year,SSR degree college.Here is about my MS-cloud project Detials:
+# Hii..Everyone..This is N.Haritha,MPCS Final year,SSR degree college.Here is about my MS-cloud project Detials:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project name:Hygiene
+# Project name:Hygiene
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project Links:
+# Project Links:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Github Repository link:https://github.com/Haritha9898/HYGIENE
 
@@ -15,29 +15,56 @@ Azure health bot link:https://eastus.healthbot.microsoft.com/account/hygienetips
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Industry*:
-Health
+# Industry*: Health
 
-Project Title*:
-Hygiene
+# Project Title*:Hygiene
 
-Problem Statement/Opportunity*:
+# Problem Statement/Opportunity*:
 Hygiene refers to which prevents diseases and maintains a good health.There are many types of hygienes like personal hygiene,social hygiene,medical hygiene etc..,.Mantaining a good hygiene improves your health.In this project we focused on Hygiene and types of hygiene.
 
-Project Description*:
+# Project Description*:
 Good hygiene is critical for preventing the spread of infectious diseases and helping children lead long, healthy lives. It also prevents them from missing school, resulting in better learning outcomes."Hygiene refers to conditions and practices that help to maintain health and prevent the spread of diseases." Personal hygiene refers to maintaining the body's cleanliness.
 
-Primary Azure Technology*:
+# Primary Azure Technology*:
 Health Bot, Static Web Apps,
 
-Web Technologies:
+# Web Technologies:
 Html,
 Css,
 Java Script
 
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project Screenshorts:
+# Azure resources screenshots,Healthbot,Staticwebapp:
+
+Azure Resources:
+
+![Azure resources](https://user-images.githubusercontent.com/118534118/208872595-9e9d7b8c-43bd-4959-9a1f-ebb265263936.png)
+
+Azure Static webapp:
+
+![azure static webapp](https://user-images.githubusercontent.com/118534118/208872650-539f2e86-c77d-4679-a8b4-5a4d891648ea.png)
+
+Azure Health bot:
+
+![Azure healthbot](https://user-images.githubusercontent.com/118534118/208872708-a71a44cc-a44a-4753-9d1e-e47d4713c5cf.png)
+
+Azure Healthbot Scenario Mangement:
+![Azure health bot Scenario managment](https://user-images.githubusercontent.com/118534118/208872981-bce6c83e-ab9c-42fd-b7b5-a0bb578a7e3f.png)
+
+
+Test in Webchat:
+
+![test in webchat1](https://user-images.githubusercontent.com/118534118/208872901-fdbe51a3-89f1-49a9-bdef-bd6f33a58af4.png)
+
+![test in webchat2](https://user-images.githubusercontent.com/118534118/208873065-f0d37677-ff56-43c7-8bb4-34fc52dd36bd.png)
+
+![test in webchat3](https://user-images.githubusercontent.com/118534118/208873121-07ea81a0-6e18-4239-a08d-6f8823606190.png)
+
+![test in webchat5](https://user-images.githubusercontent.com/118534118/208873136-abd7751d-08cd-4127-8159-e639d428870b.png)
+
+
+
+# Project Screenshorts:
 
 Homepage:
 
